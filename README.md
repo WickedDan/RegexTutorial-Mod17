@@ -8,6 +8,6 @@ Open gist.md file in repo to view!
 ## Questions 
 If you have questions check out my github WickedDan: https://github.com/WickedDan or you can email me at daniel@wickedflow.com;
 ## Screenshots
-![alt text](Tutorial.png)
+![alt text](/assets/Tutorial.png)
 ## Deployment Link
 https://gist.github.com/WickedDan/f80be4de7ef7c5b89367cf17144bae11
