@@ -2,7 +2,7 @@
 ## Description
 A tutorial that explains how a specific regular expression, or regex, functions by breaking down each part of the expression and describing what it does.
 ## Installation
-Download Repo from GitHub:
+Download Repo from GitHub: https://github.com/WickedDan/RegexTutorial-Mod17.git
 ## Usuage Information
 Open gist.md file in repo to view!
 ## Questions 
