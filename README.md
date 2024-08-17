@@ -4,7 +4,7 @@ A tutorial that explains how a specific regular expression, or regex, functions 
 ## Installation
 Download Repo from GitHub: https://github.com/WickedDan/RegexTutorial-Mod17.git
 ## Usuage Information
-Open gist.md file in repo to view!
+Open gist.md file in repo or vist https://gist.github.com/WickedDan/f80be4de7ef7c5b89367cf17144bae11 to view!
 ## Questions 
 If you have questions check out my github WickedDan: https://github.com/WickedDan or you can email me at daniel@wickedflow.com;
 ## Screenshots
